@@ -49,8 +49,8 @@
 	"kind" : "codemodel",
 	"paths" : 
 	{
-		"build" : "D:/OneDrive/STUDY/CppLearning/SchoolSystem/cmake-build-debug",
-		"source" : "D:/OneDrive/STUDY/CppLearning/SchoolSystem"
+		"build" : "D:/OneDrive/STUDY/SchoolSystem/cmake-build-debug",
+		"source" : "D:/OneDrive/STUDY/SchoolSystem"
 	},
 	"version" : 
 	{

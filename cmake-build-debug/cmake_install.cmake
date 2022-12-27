@@ -1,8 +1,8 @@
-# Install script for directory: D:/OneDrive/STUDY/CppLearning/SchoolSystem
+# Install script for directory: D:/OneDrive/STUDY/SchoolSystem
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
-  set(CMAKE_INSTALL_PREFIX "C:/Program Files (x86)/12_25SchoolSystemAssignment")
+  set(CMAKE_INSTALL_PREFIX "C:/Program Files (x86)/SchoolSystem")
 endif()
 string(REGEX REPLACE "/$" "" CMAKE_INSTALL_PREFIX "${CMAKE_INSTALL_PREFIX}")
 
@@ -40,5 +40,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "D:/OneDrive/STUDY/CppLearning/SchoolSystem/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "D:/OneDrive/STUDY/SchoolSystem/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")

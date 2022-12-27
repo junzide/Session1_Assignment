@@ -2,42 +2,6 @@
 	"entries" : 
 	[
 		{
-			"name" : "12_25SchoolSystemAssignment_BINARY_DIR",
-			"properties" : 
-			[
-				{
-					"name" : "HELPSTRING",
-					"value" : "Value Computed by CMake"
-				}
-			],
-			"type" : "STATIC",
-			"value" : "D:/OneDrive/STUDY/CppLearning/SchoolSystem/cmake-build-debug"
-		},
-		{
-			"name" : "12_25SchoolSystemAssignment_IS_TOP_LEVEL",
-			"properties" : 
-			[
-				{
-					"name" : "HELPSTRING",
-					"value" : "Value Computed by CMake"
-				}
-			],
-			"type" : "STATIC",
-			"value" : "ON"
-		},
-		{
-			"name" : "12_25SchoolSystemAssignment_SOURCE_DIR",
-			"properties" : 
-			[
-				{
-					"name" : "HELPSTRING",
-					"value" : "Value Computed by CMake"
-				}
-			],
-			"type" : "STATIC",
-			"value" : "D:/OneDrive/STUDY/CppLearning/SchoolSystem"
-		},
-		{
 			"name" : "CMAKE_AR",
 			"properties" : 
 			[
@@ -75,7 +39,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "d:/OneDrive/STUDY/CppLearning/SchoolSystem/cmake-build-debug"
+			"value" : "d:/OneDrive/STUDY/SchoolSystem/cmake-build-debug"
 		},
 		{
 			"name" : "CMAKE_CACHE_MAJOR_VERSION",
@@ -515,7 +479,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "D:/OneDrive/STUDY/CppLearning/SchoolSystem/cmake-build-debug/CMakeFiles/pkgRedirects"
+			"value" : "D:/OneDrive/STUDY/SchoolSystem/cmake-build-debug/CMakeFiles/pkgRedirects"
 		},
 		{
 			"name" : "CMAKE_GENERATOR",
@@ -575,7 +539,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "D:/OneDrive/STUDY/CppLearning/SchoolSystem"
+			"value" : "D:/OneDrive/STUDY/SchoolSystem"
 		},
 		{
 			"name" : "CMAKE_INSTALL_PREFIX",
@@ -587,7 +551,7 @@
 				}
 			],
 			"type" : "PATH",
-			"value" : "C:/Program Files (x86)/12_25SchoolSystemAssignment"
+			"value" : "C:/Program Files (x86)/SchoolSystem"
 		},
 		{
 			"name" : "CMAKE_LINKER",
@@ -1123,7 +1087,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "D:/OneDrive/STUDY/CppLearning/SchoolSystem/cmake-build-debug"
+			"value" : "D:/OneDrive/STUDY/SchoolSystem/cmake-build-debug"
 		},
 		{
 			"name" : "SchoolSystem_IS_TOP_LEVEL",
@@ -1147,7 +1111,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "D:/OneDrive/STUDY/CppLearning/SchoolSystem"
+			"value" : "D:/OneDrive/STUDY/SchoolSystem"
 		}
 	],
 	"kind" : "cache",
