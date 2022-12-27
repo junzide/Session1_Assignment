@@ -7,3 +7,11 @@
 11	3723	6938008338830338	CMakeFiles/SchoolSystem.dir/Student.cpp.obj	f6d6e2f1295b2edf
 5250	6460	6938008364923919	SchoolSystem.exe	4266a7858c8a706a
 15	5031	6938008351915835	CMakeFiles/SchoolSystem.dir/StudentMenu.cpp.obj	d12b73a34430efcd
+14	3674	6938095940401791	CMakeFiles/SchoolSystem.dir/Person.cpp.obj	4df2274a00b5a117
+28	3716	6938095940467633	CMakeFiles/SchoolSystem.dir/Teacher.cpp.obj	e475d18f379c47b
+18	3753	6938095941410791	CMakeFiles/SchoolSystem.dir/Student.cpp.obj	2f8e2272a90f53ca
+5	4737	6938095951166180	CMakeFiles/SchoolSystem.dir/main.cpp.obj	dae930acaadff791
+1	4793	6938095951827761	CMakeFiles/SchoolSystem.dir/LoginMenu.cpp.obj	d4cb2712da690128
+23	4998	6938095953884303	CMakeFiles/SchoolSystem.dir/StudentMenu.cpp.obj	ec6721c727400ac2
+9	5183	6938095955724228	CMakeFiles/SchoolSystem.dir/TeacherMenu.cpp.obj	7851e4ff3222dabc
+5184	6851	6938095971557383	SchoolSystem.exe	4266a7858c8a706a
